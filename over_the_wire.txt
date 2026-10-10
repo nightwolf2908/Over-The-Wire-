@@ -94,4 +94,5 @@ level 1: ROTTEN
 level 2: CAESARISEASY
 level 3: BRUTE
 level 4: CLEARTEXT
-level 5: 
+level 5: RANDOM
+level 6: 
