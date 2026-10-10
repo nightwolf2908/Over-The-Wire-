@@ -93,4 +93,5 @@ level 0: KRYPTONISGREAT
 level 1: ROTTEN
 level 2: CAESARISEASY
 level 3: BRUTE
-level 4: 
+level 4: CLEARTEXT
+level 5: 
