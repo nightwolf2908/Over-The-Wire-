@@ -12,6 +12,8 @@ Wargames completados
 
 🔴 Natas	Intermedio	0 → 34	Seguridad web, XSS, SQLi, LFI, cookies, etc.
 
+🔴 Krypton  Intermedio 0 → 7  Criptografía clásica y el criptoanálisis.
+
 🧠 ¿Qué aprendí?
 🟢 Bandit — Fundamentos de Linux
 Navegación por el sistema de archivos (ls, cd, find, locate)
@@ -63,6 +65,16 @@ Bypass de autenticación y ofuscación
 
 Análisis con curl, Burp Suite y scripts en Python
 
+🔴 Krypton - Criptografía y criptoanálisis
+
+Codificaciones básicas
+
+Cifrados por sustitución monoalfabética
+
+Análisis de frecuencias
+
+Cifrados polialfabéticos
+
 🛠️ Herramientas utilizadas
 Terminal: bash, zsh
 
@@ -75,4 +87,6 @@ Análisis: strings, objdump, xxd, file
 Web: navegador con DevTools, Burp Suite, python3
 
 Editores: vim, nano
+
+Criptografia: ROT13, Ceasar, Vigniere, tr
 
