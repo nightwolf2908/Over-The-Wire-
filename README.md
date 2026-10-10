@@ -1,18 +1,15 @@
-OverTheWire Wargames — Writeups & Notas
-
-https://img.shields.io/badge/OverTheWire-Wargames-blueviolet
-https://img.shields.io/badge/Progreso-Completado-success
-https://img.shields.io/badge/Estado-Activo-brightgreen
+OverTheWire Wargames 
 
 Repositorio personal donde documento mi recorrido por los wargames de OverTheWire. Aquí encontrarás writeups, comandos clave, conceptos aprendidos y las soluciones de cada nivel (incluyendo credenciales en un archivo aparte).
 
 Wargames completados
 
-Wargame	Dificultad	Niveles	Enfoque principal
-
 🟢 Bandit	Principiante	0 → 34	Comandos básicos de Linux, permisos, SSH, redes
+
 🔵 Leviathan	Principiante-Intermedio	0 → 8	SUID, binarios, análisis básico
+
 🟣 Narnia	Intermedio	0 → 9	Explotación binaria, buffer overflow, reversing
+
 🔴 Natas	Intermedio	0 → 34	Seguridad web, XSS, SQLi, LFI, cookies, etc.
 
 🧠 ¿Qué aprendí?
