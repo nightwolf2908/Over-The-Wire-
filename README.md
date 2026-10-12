@@ -14,6 +14,8 @@ Wargames completados
 
 🔴 Krypton  Intermedio 0 → 7  Criptografía clásica y el criptoanálisis.
 
+🔴 Behemoth  Intermedio 0 → 9 Explotacion binaria e ingenieria inversa.
+
 🧠 ¿Qué aprendí?
 🟢 Bandit — Fundamentos de Linux
 Navegación por el sistema de archivos (ls, cd, find, locate)
@@ -89,4 +91,6 @@ Web: navegador con DevTools, Burp Suite, python3
 Editores: vim, nano
 
 Criptografia: ROT13, Ceasar, Vigniere, tr
+
+Ingenieria inversa y explotacion binaria:  tmux, radare2, pwndbg, nasm
 
