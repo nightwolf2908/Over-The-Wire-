@@ -16,6 +16,8 @@ Wargames completados
 
 🔴 Behemoth  Intermedio 0 → 9 Explotacion binaria e ingenieria inversa.
 
+🔴 Utumno  Medio - Avanzado 0 → 9 Explotacion binaria e ingenieria inversa.
+
 🧠 ¿Qué aprendí?
 🟢 Bandit — Fundamentos de Linux
 Navegación por el sistema de archivos (ls, cd, find, locate)
