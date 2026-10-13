@@ -1,5 +1,3 @@
-Una vez dentro de utumno 0
-
 utumno0@utumno:~$ cd /utumno/
 utumno0@utumno:/utumno$ ls
 utumno0  utumno0_hard  utumno1  utumno2  utumno3  utumno4  utumno5  utumno6  utumno7
