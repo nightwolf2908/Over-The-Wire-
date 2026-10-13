@@ -1,0 +1,25 @@
+if status is-interactive
+
+        function cleanup_orphans
+                set -l orphans (pacman -Qtdq)
+                if test -n "$orphans"
+                        sudo pacman -Rns $orphans
+                else
+                        echo "No hay paquetes huérfanos por limpiar."
+                end
+        end
+
+        abbr -a cleanup 'cleanup_orphans'
+end
+
+#abreviaciones
+abbr -a .. 'cd ..'
+abbr -a psyu 'sudo pacman -Syu'
+abbr -a update 'sudo pacman -Syu'
+abbr -a hs 'history search'
+abbr -a e 'exit'
+abbr -a gs 'git status'
+abbr -a pdf 'soffice --convert-to pdf '
+
+#variables de entorno
+set -gx BROWSER google-chrome-stable
