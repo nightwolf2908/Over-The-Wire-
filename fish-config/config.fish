@@ -20,6 +20,7 @@ abbr -a hs 'history search'
 abbr -a e 'exit'
 abbr -a gs 'git status'
 abbr -a pdf 'soffice --convert-to pdf '
+abbr -a suspend 'systemctl suspend'
 
 #variables de entorno
 set -gx BROWSER google-chrome-stable
