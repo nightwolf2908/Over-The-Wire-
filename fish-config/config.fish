@@ -21,6 +21,9 @@ abbr -a e 'exit'
 abbr -a gs 'git status'
 abbr -a pdf 'soffice --convert-to pdf '
 abbr -a suspend 'systemctl suspend'
+abbr -a av 'source venv/bin/activate.fish'
+abbr -a dv 'deactivate'
+abbr venv 'python -m venv venv'
 
 #variables de entorno
 set -gx BROWSER google-chrome-stable
