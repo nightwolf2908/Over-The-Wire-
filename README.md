@@ -1,6 +1,6 @@
 OverTheWire Wargames 
 
-Repositorio personal donde documento mi recorrido por los wargames de OverTheWire. Aquí encontrarás writeups, comandos clave, conceptos aprendidos y las soluciones de cada nivel (incluyendo credenciales en un archivo aparte).
+Repositorio personal donde documento mi recorrido por los wargames de OverTheWire. Aquí encontrarás writeups, comandos clave, conceptos aprendidos y las soluciones de cada nivel (incluyendo credenciales en un archivo aparte). Los writeups de bandit hasta behemoth, los puedes encontrar en la web, en sitios web o youtube, los demas si es muy dificl encontrarlos, entonces voy a crear mis propios writeups, mas que nada los comandos hasta llegar al flag, tu ya puedes investigar mas a fondo porque esos comandos y asi.
 
 Wargames completados
 
