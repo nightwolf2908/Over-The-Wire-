@@ -29,3 +29,8 @@ abbr -a mp3 'yt-dlp -x --audio-format mp3 --no-playlist --audio-quality 0 ""'
 
 #variables de entorno
 set -gx BROWSER google-chrome-stable
+
+#Instalar fish y tenerla como predeterminada.
+#sudo pacman -S fish
+#which fish
+#chsh -s /usr/bin/fish
