@@ -27,6 +27,8 @@ abbr -a venv 'python -m venv venv'
 abbr -a h 'history'
 abbr -a mp3 'yt-dlp -x --audio-format mp3 --no-playlist --audio-quality 0 ""'
 abbr -a gp 'git push origin main'
+abbr -a dcu 'docker compose up -d'
+abbr -a dcd 'docker compose down'
 
 zoxide init fish | source
 
