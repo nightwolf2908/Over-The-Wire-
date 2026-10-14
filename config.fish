@@ -25,6 +25,7 @@ abbr -a av 'source venv/bin/activate.fish'
 abbr -a dv 'deactivate'
 abbr -a venv 'python -m venv venv'
 abbr -a h 'history'
+abbr -a mp3 'yt-dlp -x --audio-format mp3 --no-playlist --audio-quality 0 ""'
 
 #variables de entorno
 set -gx BROWSER google-chrome-stable
