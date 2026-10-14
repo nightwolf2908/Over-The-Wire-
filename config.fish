@@ -26,9 +26,9 @@ abbr -a dv 'deactivate'
 abbr -a venv 'python -m venv venv'
 abbr -a h 'history'
 abbr -a mp3 'yt-dlp -x --audio-format mp3 --no-playlist --audio-quality 0 ""'
+abbr -a gp 'git push origin main'
 
-#variables de entorno
-set -gx BROWSER google-chrome-stable
+zoxide init fish | source
 
 #Instalar fish y tenerla como predeterminada.
 #sudo pacman -S fish
