@@ -23,7 +23,8 @@ abbr -a pdf 'soffice --convert-to pdf '
 abbr -a suspend 'systemctl suspend'
 abbr -a av 'source venv/bin/activate.fish'
 abbr -a dv 'deactivate'
-abbr venv 'python -m venv venv'
+abbr -a venv 'python -m venv venv'
+abbr -a h 'history'
 
 #variables de entorno
 set -gx BROWSER google-chrome-stable
