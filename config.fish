@@ -30,6 +30,7 @@ abbr -a gp 'git push origin main'
 abbr -a dcu 'docker compose up -d'
 abbr -a dcd 'docker compose down'
 abbr -a rcc 'rclone copy Datos\ personales.txt gdrive:/DatosPersonales/'
+abbr -a m 'mpv . --shuffle'
 
 zoxide init fish | source
 
