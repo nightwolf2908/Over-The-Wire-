@@ -31,6 +31,8 @@ abbr -a dcu 'docker compose up -d'
 abbr -a dcd 'docker compose down'
 abbr -a rcc 'rclone copy Datos\ personales.txt gdrive:/DatosPersonales/'
 abbr -a m 'mpv . --shuffle'
+abbr -a gc 'google-chrome-stable'
+abbr -a rc 'sudo paccache -r'
 
 zoxide init fish | source
 
