@@ -33,6 +33,9 @@ abbr -a rcc 'rclone copy Datos\ personales.txt gdrive:/DatosPersonales/'
 abbr -a m 'mpv . --shuffle'
 abbr -a gc 'google-chrome-stable'
 abbr -a rc 'sudo paccache -r'
+abbr -a show 'sushi'
+abbr -a dl 'sudo pacman -S'
+abbr -a iso 'sudo dd bs=4M if= of=/dev/sdb status=progress oflag=sync'
 
 zoxide init fish | source
 
