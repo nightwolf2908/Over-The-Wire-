@@ -39,7 +39,14 @@ abbr -a iso 'sudo dd bs=4M if= of=/dev/sdb status=progress oflag=sync'
 
 zoxide init fish | source
 
-#Instalar fish y tenerla como predeterminada.
-#sudo pacman -S fish
-#which fish
-#chsh -s /usr/bin/fish
+function clean
+        find ~/.cache -mindepth 1 -maxdepth 1 -exec rm -rf {} + 2>/dev/null
+        sudo pacman -Sc
+        yay -Sc
+        set huerfanos (pacman -Qtdq)
+        if test -n "$huerfanos"
+                sudo pacman -Rns $huerfanos
+        end
+end
+
+
